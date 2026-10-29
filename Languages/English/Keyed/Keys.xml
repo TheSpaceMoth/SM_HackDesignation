@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageData>
+	<SM_HackDesignator.DesignatorHack>Auto Hack</SM_HackDesignator.DesignatorHack>
+	<SM_HackDesignator.DesignatorHackDesc>Mark objects to be autohacked by colonists.</SM_HackDesignator.DesignatorHackDesc>
+	<SM_HackDesignator.MessageMustDesignateHackables>Must target hackable objects.</SM_HackDesignator.MessageMustDesignateHackables>	
+</LanguageData>

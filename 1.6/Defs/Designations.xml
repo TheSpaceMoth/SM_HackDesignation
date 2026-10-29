@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <DesignationDef>
+    <defName>SM_Designator_Hack</defName>
+    <texturePath>UI/Commands/Hack</texturePath>
+    <targetType>Thing</targetType>
+    <removeIfBuildingDespawned>true</removeIfBuildingDespawned>
+  </DesignationDef>
+  <!--
+  <DesignationDef>
+    <defName>SM_Designator_HackLockout</defName>
+    <texturePath>UI/Commands/Hack</texturePath>
+    <targetType>Thing</targetType>
+    <removeIfBuildingDespawned>true</removeIfBuildingDespawned>
+  </DesignationDef>
+  
+  <DesignationDef>
+    <defName>SM_Designator_HackComplete</defName>
+    <texturePath>UI/Commands/Hack</texturePath>
+    <targetType>Thing</targetType>
+    <removeIfBuildingDespawned>true</removeIfBuildingDespawned>
+  </DesignationDef>-->
+</Defs>
